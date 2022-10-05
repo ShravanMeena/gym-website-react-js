@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import Button from "./reusable/Button";
-import H1 from "./reusable/H1";
 import Logo from "./reusable/Logo";
 
 const menusData = [
